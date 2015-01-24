@@ -3,9 +3,26 @@ layout: page
 title: Orbitist blog
 description: Updates from Orbitist
 ---
-<h1>Blog</h1>
-	{% for post in site.posts %}
-		{% if post.published %}
-			<p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
-		{% endif %}
-	{% endfor %}
+<div class="row">
+	<h2>Blog</h2>
+	<hr>
+</div><!-- row -->
+{% for post in site.posts %}
+	{% if post.published %}
+		<div class="row">
+			<div class="col-md-12">
+				<a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}" class="img-responsive"></a>
+			</div><!-- col-md-12 -->
+		</div><!-- row -->
+		<div class="row">
+			<div class="col-md-4">
+				<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br><small>by {{ post.by }}</small></h3>
+			</div><!-- col-md-4 -->
+			<div class="col-md-8">
+				<div style="margin-top:20px;"></div>
+				{{ post.content }}
+			</div><!-- col-md-8 -->
+		</div><!-- row -->
+		<hr>
+	{% endif %}
+{% endfor %}

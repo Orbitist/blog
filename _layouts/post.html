@@ -3,13 +3,20 @@ layout: default
 ---
 <div class="container">
 	<div class="row">
+		<h2>Blog</h2>
+		<hr>
 		<div class="col-md-8">
-			<h2>{{ page.title }}</h2>
-			<hr>
 			<img src="{{ page.image }}" class="img-responsive">
+			<h4>{{ page.title }}<small> by {{ page.by }}</small></h4>
 			{{ content }}
 		</div><!-- col-md-8 -->
 		<div class="col-md-4">
-		</div>
+			<h4>Recent Posts</h4>
+			{% for post in site.posts %}
+				{% if post.published %}
+					<p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
+				{% endif %}
+			{% endfor %}
+		</div><!-- col-md-4 -->
 	</div><!-- row -->
 </div><!-- container -->
