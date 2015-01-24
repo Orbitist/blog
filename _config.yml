@@ -1,0 +1,19 @@
+permalink: /:year/:month/:day/:title
+
+highlighter: pygments
+markdown: kramdown
+
+title : Orbitist blog
+tagline: Updates from Orbitist
+author : 
+  name : Orbitist Support
+  email : support@orbitist.com
+  github : Orbitist
+  twitter : TheOrbitist
+  web : http://www.orbitist.com
+
+production_url : orbitist.com/blog
+
+baseurl : http://orbitist.com/blog
+  
+timezone : America/New_York
