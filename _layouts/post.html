@@ -1,22 +1,15 @@
 ---
 layout: default
 ---
+<div class="post-top-image">
+	<img src="{{ page.image }}" class="img-responsive">
+</div>
 <div class="container">
 	<div class="row">
-		<h2>Blog</h2>
-		<hr>
-		<div class="col-md-8">
-			<img src="{{ page.image }}" class="img-responsive">
-			<h4>{{ page.title }}<small> by {{ page.by }}</small></h4>
+		<div class="col-md-8 col-md-offset-2 post-body">
+			<h2 class="u-orange">{{ page.title }}<small> by {{ page.by }}</small></h2>
 			{{ content }}
-		</div><!-- col-md-8 -->
-		<div class="col-md-4">
-			<h4>Recent Posts</h4>
-			{% for post in site.posts %}
-				{% if post.published %}
-					<p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
-				{% endif %}
-			{% endfor %}
-		</div><!-- col-md-4 -->
+			<a href="http://orbitist.com/blog"><p><-- back to blog home</p></a>
+		</div><!-- col-md-8 col-md-offset-2 -->
 	</div><!-- row -->
 </div><!-- container -->
