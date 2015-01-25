@@ -29,13 +29,14 @@ max-height: 500px;
 overflow: hidden;
 }
 
+@media (min-width: 768px) {
 /** Post body **/
 .post-body {
 top: -150px;
 background-color: white;
 border-radius: 4px;
 }
-
+}
 /** Utilities **/
 .u-orange {
 color: rgba(241,194,137,1);
