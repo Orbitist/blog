@@ -41,3 +41,7 @@ border-radius: 4px;
 .u-orange {
 color: rgba(241,194,137,1);
 }
+
+.img-responsive {
+min-width: 100%;
+}
