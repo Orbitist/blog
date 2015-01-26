@@ -10,12 +10,12 @@ description: Updates from Orbitist
 {% for post in site.posts limit 10 %}
 	{% if post.published %}
 		<div class="row thumbnail">
-			<div class="col-md-6 col-md-offset-3">
+			<div class="col-md-8 col-md-offset-2">
 				<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br><small>by {{ post.by }}</small></h3>
 				<a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}" class="img-responsive"></a>
 				<div style="margin-top:20px;"></div>
 				{{ post.excerpt }}
-				<a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-default btn-orbitist">Read more</a>
+				<a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-xs btn-default btn-orbitist center-block">Read more</a>
 			</div><!-- col-md-6 col-md-offset-3 -->
 		</div><!-- row -->
 	{% endif %}
