@@ -9,14 +9,17 @@ description: Updates from Orbitist
 </div><!-- row -->
 {% for post in site.posts limit 10 %}
 	{% if post.published %}
-		<div class="row thumbnail">
+		<div class="row blog-feed">
 			<div class="col-md-8 col-md-offset-2">
-				<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br><small>by {{ post.by }}</small></h3>
-				<a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}" class="img-responsive"></a>
-				<div style="margin-top:20px;"></div>
+				<h4><small>{{ post.date | date: "%m/%d/%Y" }}</small><br><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br><small>by {{ post.by }}</small></h4>
+				<div class="blog-feed-image">
+					<a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}" class="img-responsive"></a>
+				</div>
+				<div style="margin-top:10px;"></div>
 				{{ post.excerpt }}
 				<a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-sm btn-default btn-orbitist center-block">Read more</a>
 			</div><!-- col-md-6 col-md-offset-3 -->
 		</div><!-- row -->
+		<hr>
 	{% endif %}
 {% endfor %}
