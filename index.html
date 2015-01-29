@@ -11,7 +11,7 @@ description: Updates from Orbitist
 	{% if post.published %}
 		<div class="row blog-feed">
 			<div class="col-md-8 col-md-offset-2">
-				<h4><small>{{ post.date | date: "%m/%d/%Y" }}</small><br><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br><small>by {{ post.by }}</small></h4>
+				<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br><small>by {{ post.by }} on {{ post.date | date: "%m/%d/%Y" }}</small></h3>
 				<div class="blog-feed-image">
 					<a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}" class="img-responsive"></a>
 				</div>

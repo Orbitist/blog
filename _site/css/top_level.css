@@ -57,12 +57,7 @@ text-align: center;
 }
 
 .blog-feed a {
-color: #777;
-}
-
-.blog-feed a:hover {
 color: #333;
-text-decoration: none;
 }
 
 .blog-feed-image {
