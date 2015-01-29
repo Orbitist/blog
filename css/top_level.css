@@ -69,6 +69,11 @@ overflow: hidden;
 max-width: 200px;
 }
 
+/** Wistia containers **/
+.wistia-container {
+max-width: 100%;
+}
+
 /** Utilities **/
 .u-orange {
 color: rgba(241,194,137,1);
