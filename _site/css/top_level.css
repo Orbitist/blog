@@ -74,6 +74,11 @@ max-width: 200px;
 max-width: 100%;
 }
 
+/** Footer **/
+.footer {
+text-align: center;
+}
+
 /** Utilities **/
 .u-orange {
 color: rgba(241,194,137,1);
