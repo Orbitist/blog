@@ -16,7 +16,11 @@ description: Updates from Orbitist
 					<a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}" class="img-responsive"></a>
 				</div>
 				<div style="margin-top:10px;"></div>
+				{% if post.description %}
+				<p>{{ post.description }}</p>
+				{% else %}
 				{{ post.excerpt }}
+				{% endif %}
 				<a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-sm btn-default btn-orbitist center-block">Read more</a>
 			</div><!-- col-md-6 col-md-offset-3 -->
 		</div><!-- row -->
