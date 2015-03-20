@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Feature update - List view
 by: Nicholas Gunner
-image: "http://orbitist.s3.amazonaws.com/blog/2015/3/20/toggle.jpg"
+image: "http://orbitist.s3.amazonaws.com/blog/2015/3/20/map-toggle.jpg"
 ---
 When you share Orbitist maps you'll notice a new 'Info' button in the upper right corner. Click it to toggle to a grid view of the mapped content.
 
