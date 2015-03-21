@@ -13,11 +13,12 @@ We're working on a mapping application specifically for teachers and students to
 
 Here's our pitch:
 
-<iframe src="https://www.youtube.com/embed/Ey3WkHyd87g" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/Ey3WkHyd87g" frameborder="0" allowfullscreen></iframe>
 
 We've been testing our classroom app in a high school culture class where students have been mapping stories about cultures throughout history. They were also asked to map their own family immigration story!
 
 So far, they've mapped hundreds of stories. Check it out:
+
 <iframe width="100%" height="500px" src="http://live-culture.gotpantheon.com" frameborder="0" allowfullscreen></iframe>
 
 Do you have a classroom that needs beautiful maps? [Get in touch with us!](mailto:support@orbitist.com)
