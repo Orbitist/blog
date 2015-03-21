@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Orbitist Maps in the classroom
+title: Orbitist maps in the classroom
 by: Nicholas Gunner
 image: "http://orbitist.s3.amazonaws.com/blog/2015/3/21/culture-map.jpg"
 description: "Maps work really well in the classroom because they allow teachers to put events and cultures into context. Imagine what mapping could look like in today's classroom?"
