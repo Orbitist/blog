@@ -1,7 +1,7 @@
 /** Typography **/
 p {
 font-size: 18px;
-padding: 20px;
+padding: 10px;
 }
 
 @media (max-width: 768px) {
