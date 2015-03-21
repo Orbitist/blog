@@ -4,6 +4,7 @@ published: true
 title: Orbitist Maps in the classroom
 by: Nicholas Gunner
 image: "http://orbitist.s3.amazonaws.com/blog/2015/3/21/culture-map.jpg"
+description: "Maps work really well in the classroom because they allow teachers to put events and cultures into context. Imagine what mapping could look like in today's classroom?"
 ---
 Maps work really well in the classroom because they allow teachers to put events and cultures into context. Remember those pull down maps your teachers would use to point out geographies in front of class? I do... and I always thought they were awesome. Unfortunately, you don't see those map scrolls as often. They're becoming a thing of the past... replaced mainly by projector screens and smart boards. 
 
