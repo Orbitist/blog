@@ -13,7 +13,7 @@ We're working on a mapping application specifically for teachers and students to
 
 Here's our pitch:
 
-<iframe width="100%" src="https://www.youtube.com/embed/Ey3WkHyd87g" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" class="fitvid" src="https://www.youtube.com/embed/Ey3WkHyd87g" frameborder="0" allowfullscreen></iframe>
 
 We've been testing our classroom app in a high school culture class where students have been mapping stories about cultures throughout history. They were also asked to map their own family immigration story!
 
