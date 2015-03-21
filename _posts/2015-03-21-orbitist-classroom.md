@@ -15,7 +15,7 @@ Here's our pitch:
 
 <!-- 16:9 aspect ratio -->
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Ey3WkHyd87g""></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Ey3WkHyd87g"></iframe>
 </div>
 
 We've been testing our classroom app in a high school culture class where students have been mapping stories about cultures throughout history. They were also asked to map their own family immigration story!
