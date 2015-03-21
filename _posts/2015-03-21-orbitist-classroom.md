@@ -24,4 +24,4 @@ So far, they've mapped hundreds of stories. Check it out:
 
 <iframe width="100%" height="500px" src="http://live-culture.gotpantheon.com" frameborder="0" allowfullscreen></iframe>
 
-Do you have a classroom that needs beautiful maps? [Get in touch with us!](mailto:support@orbitist.com)
+Do you have a classroom that needs beautiful maps? Get in touch with us: [support@orbitist.com](mailto:support@orbitist.com)
