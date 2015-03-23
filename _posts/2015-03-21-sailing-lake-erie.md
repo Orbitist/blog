@@ -10,6 +10,6 @@ Western New York journalist, Adam Zaremski, tells stories about sailing the high
 
 <iframe width="100%" height="500px" src="http://app.orbitist.com/embed/9?tag=17" frameborder="0" allowfullscreen></iframe>
 
-[See this map fullscreen](http://www.app.orbitist.com/fullscreen/9?tag=17) or [As a pirate map!](http://www.app.orbitist.com/fullscreen-pirate/9?tag=17)
+[See this map fullscreen](http://www.app.orbitist.com/fullscreen/9?tag=17) or [as a watercolor map!](http://www.app.orbitist.com/fullscreen-watercolor/9?tag=17)
 
 Are you a jounalist looking to take your stories to the next level with maps? Get in touch with us: [support@orbitist.com](mailto:support@orbitist.com)
