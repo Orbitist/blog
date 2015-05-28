@@ -3,8 +3,8 @@ permalink: /:year/:month/:day/:title
 highlighter: pygments
 markdown: kramdown
 
-title : Orbitist blog
-tagline: Updates from Orbitist
+title : Orbitist Portfolio
+tagline: Latest Work from Orbitist
 author : 
   name : Orbitist Support
   email : support@orbitist.com
@@ -12,8 +12,8 @@ author :
   twitter : TheOrbitist
   web : http://www.orbitist.com
 
-production_url : orbitist.com/blog
+production_url : orbitist.com/portfolio
 
-baseurl : http://orbitist.com/blog
+baseurl : http://orbitist.com/portfolio
   
 timezone : America/New_York
