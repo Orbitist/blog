@@ -3,7 +3,7 @@ layout: post
 published: true
 title: The most epic of the animal kingdom - the Arctic Tern.
 by: Nicholas Gunner
-image: "http://orbitist.s3.amazonaws.com/blog/2015/2/03/arctic_tern_cover_image.jpg"
+image: "http://orbitist.s3.amazonaws.com/2015/arctic_tern/arctic_tern_cover_image.jpg"
 description: "Arctic terns have the longest known annual migration on earth!"
 ---
 <iframe width="100%" height="500px" src="http://orbitist.s3.amazonaws.com/2015/arctic_tern/site/index.html" frameborder="0" allowfullscreen></iframe>
