@@ -3,7 +3,7 @@ permalink: /:year/:month/:day/:title
 highlighter: pygments
 markdown: kramdown
 
-title : Orbitist Portfolio
+title : Orbitist Work
 tagline: Latest Work from Orbitist
 author : 
   name : Orbitist Support
