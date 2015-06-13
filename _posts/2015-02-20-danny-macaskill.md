@@ -7,4 +7,4 @@ image: "http://www.app.orbitist.com/sites/default/files/styles/lightbox_800/publ
 ---
 Danny Macaskill is an inspiration for sure! The 30-year-old from Scottland is on top of his game, riding bikes like some kind of half-human/half-machine. This map shows some of his most popular videos. See all of them on his website.
 
-<iframe width="100%" height="500px" src="http://app.orbitist.com/embed-dark/186" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="500px" src="http://app.orbitist.com/embed/186" frameborder="0" allowfullscreen></iframe>
